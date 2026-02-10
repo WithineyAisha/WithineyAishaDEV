@@ -1,4 +1,4 @@
-# Olá, eu sou o [Withiney] 👋
+# Olá, eu sou a [Withiney] 👋
 
 ### 💻 Sobre mim
 Desenvolvedora em constante evolução, explorando novas tecnologias. Estou mergulhando nos conceitos de Front-end e o ecossistema de Back-end
